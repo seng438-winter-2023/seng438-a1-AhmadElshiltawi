@@ -17,7 +17,7 @@
 
 [1 Introduction](#Introduction)
 
-[2 High-level description of the exploratory testing plan](#High-level-description-of-the-exploratory-testing-plann)
+[2 High-level description of the exploratory testing plan](#High\-level-description-of-the-exploratory-testing-plann)
 
 [3 Comparison of exploratory and manual functional testing](#Comparison-of-exploratory-and-manual-functional-testing)
 
@@ -27,7 +27,7 @@
 
 [6 Difficulties encountered, challenges overcome, and lessons learned](#Difficulties-encountered,-challenge-overcome,-and-lessons-learned)
 
-[7 Comments/feedback on the lab and lab document itself](#Comments/feedback-on-the-lab-and-lab document-itself)
+[7 Comments/feedback on the lab and lab document itself](#Comments/feedback-on-the-lab-and-lab-document-itself)
 
 # Introduction
 
