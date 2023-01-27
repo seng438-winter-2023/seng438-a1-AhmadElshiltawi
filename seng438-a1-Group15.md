@@ -17,15 +17,15 @@
 
 [1 Introduction](#Introduction)
 
-[2 High-level description of the exploratory testing plan](#High\-level-description-of-the-exploratory-testing-plann)
+[2 High-level description of the exploratory testing plan](#High-level-description-of-the-exploratory-testing-plann)
 
 [3 Comparison of exploratory and manual functional testing](#Comparison-of-exploratory-and-manual-functional-testing)
 
-[4 Notes and discussion of the peer reviews of defect reports](#Notes and discussion of the peer reviews of defect reports)
+[4 Notes and discussion of the peer reviews of defect reports](#Notes-and-discussion-of-the-peer-reviews-of-defect-reports)
 
 [5 How the pair testing was managed and team work/effort was divided](#How-the pair-testing-was-managed-and-team work/effort-was-divided)
 
-[6 Difficulties encountered, challenges overcome, and lessons learned](#_Toc439194682)
+[6 Difficulties encountered, challenges overcome, and lessons learned](#Difficulties-encountered,-challenge-overcome,-and-lessons-learned)
 
 [7 Comments/feedback on the lab and lab document itself](#_Toc439194683)
 
